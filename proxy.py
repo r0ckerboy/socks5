@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
-# author Dinar Ahmetshin 
-# site https://ahmetshin.com
 import sys 
 import os
 
 def main():
-    username="userproxy"
+    username="nc2077"
     try:
         password_proxy =raw_input("type your password here: ")
     except:
