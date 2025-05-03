@@ -4,7 +4,7 @@ proxy socks5 python script install for server
 instruction
 
 1. referral link for DigitalOcean<br>
-https://m.do.co/c/25a7f93236fc
+https://m.do.co/c/20731d52db55
 
 2. create server Debian
 
